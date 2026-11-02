@@ -1,0 +1,16 @@
+{
+  "base_url": "https://novasite-oly.webflow.io/",
+  "crawled_at": "2026-11-02T09:41:39.012305+00:00",
+  "index_filename": "index.html",
+  "ignore_robots": true,
+  "pages": {
+    "https://novasite-oly.webflow.io/": "index.html",
+    "https://novasite-oly.webflow.io/project/vellin-studio": "project\\vellin-studio.html",
+    "https://novasite-oly.webflow.io/project/ideasprout": "project\\ideasprout.html",
+    "https://novasite-oly.webflow.io/project/nexastudio": "project\\nexastudio.html",
+    "https://novasite-oly.webflow.io/project/corepoint": "project\\corepoint.html",
+    "https://novasite-oly.webflow.io/license": "license.html",
+    "https://novasite-oly.webflow.io/changelog": "changelog.html",
+    "https://novasite-oly.webflow.io/style-guide": "style-guide.html"
+  }
+}
